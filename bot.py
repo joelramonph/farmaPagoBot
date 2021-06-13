@@ -5,7 +5,7 @@ def start(update, context):
 
 if __name__ == '__main__' :
 
-    updater = Updater(token='1849094192:AAEJl15yqmk4nmw-2pewiNWJlzDuaqjP4HQ', use_context=True)
+    updater = Updater(token='aqui va tu token', use_context=True)
 
     dp = updater.dispatcher
 
